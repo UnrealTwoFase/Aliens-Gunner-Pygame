@@ -6,8 +6,8 @@ from game0_main_file import Aliens_and_Gunner
 
 # Game Info
 name = "Aliens & Gunner"
-version = "1.0.0"
-build = "1"
+version = "0.9.1"
+build = "2"
 gameinfo = name + ' v' + version + ' build ' + build
 #/Game Info
 
